@@ -1,11 +1,13 @@
 # Ignore everything
-/*
+*
 
 # Allow these files
 !.gitignore
 !eye.py
-!yolo8n.pt
-!wepons.ipynb
+!yolov8n.pt
+!weponse-train/
+weponse-train/*
+!weponse-train/wepons.ipynb
 
 # Ignore datasets
 data/
