@@ -1,8 +1,11 @@
-# Ignore everything except eye.py and yolo8n.pt
+# Ignore everything
 /*
-!/eye.py
-!/yolo8n.pt
+
+# Allow these files
 !.gitignore
+!eye.py
+!yolo8n.pt
+!wepons.ipynb
 
 # Ignore datasets
 data/
