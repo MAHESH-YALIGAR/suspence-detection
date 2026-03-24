@@ -1,0 +1,11 @@
+# Ignore everything except eye.py and yolo8n.pt
+/*
+!/eye.py
+!/yolo8n.pt
+!.gitignore
+
+# Ignore datasets
+data/
+datasets/
+*.zip
+*.tar.gz
